@@ -2,6 +2,8 @@
 
 This project demonstrates a basic React application using Vite.js to convert text to speech with Speechify's API.
 
+![Screenshot 2024-03-08 at 13-30-19 Speechify Text to Speech](https://github.com/ElvinEga/speechify/assets/12608507/651c4ca7-defc-489e-9d69-eefefbb42448)
+
 ### Setting Up
 
 **Prerequisites:**
